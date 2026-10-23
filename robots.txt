@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadiagovorit.github.io/site/sitemap.xml
