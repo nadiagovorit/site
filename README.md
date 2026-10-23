@@ -1,3 +1,0 @@
-# site
-
-Personal site project.
